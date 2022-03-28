@@ -1,0 +1,11 @@
+#!/bin/bash
+#Koosta teine script, mis v@ljastab sinu muljed enda saavutustest antud aines:
+#Sinu Ees ja Perenimi
+#Millises 6ppegrupis 6pid
+#Kuidas Sulle tundub antud aine
+#Sinu praegune mulje ja edasij6udmine
+#---------------------------------------------------
+echo "Minu nimi on Kristjan Linsi"
+echo "Mina 6pin ISo21 6ppegrupis"
+echo "See aine on mulle juba eelnevalt tuttav ja minu jaoks kordamine"
+echo "Kordamine ja uuesti syvenemine sellele ainesse tuleb kasuks"
